@@ -1,0 +1,8 @@
+botbuilder-integration-aiohttp>=4.15.0
+botbuilder-dialogs>=4.15.0
+jsonpickle
+asyncio>=3.4.3
+botbuilder-core>=4.15.0
+botbuilder-schema>=4.15.0
+botframework-connector>=4.15.0
+gunicorn

@@ -1,0 +1,18 @@
+{
+    "name": "webbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "https://036b-52-249-220-178.ngrok-free.app/api/messages",
+            "id": "4ad40470-1150-11f0-aa6f-4d2d7dc345c4",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://036b-52-249-220-178.ngrok-free.app/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/media/shivam/New Volume/BotBuilder/custom/webbot",
+    "overrides": null
+}
